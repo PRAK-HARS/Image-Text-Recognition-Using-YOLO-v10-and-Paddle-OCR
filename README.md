@@ -1,0 +1,1 @@
+# Image-Text-Recognition-Using-YOLO-v10-and-Paddle-OCR
